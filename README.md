@@ -23,8 +23,8 @@ Please email us for further questions at ashkiani@yahoo.com
 * JavaScript
 ​
 ## Contribution Guidlines 
-Direct link to site: [https://ashkiani.github.io/sql-injection-playground/]​(https://ashkiani.github.io/sql-injection-playground/)
-​
+Direct link to site: https://ashkiani.github.io/sql-injection-playground/
+                     
 ### License
 This software is licensed under MIT license.
 
